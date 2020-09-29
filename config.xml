@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.klioshop.app"
         versionCode = "10"
-        version     = "1.4.0">
+        version     = "1.5.0">
 
     <name>KLIOSHOP</name>
 
@@ -30,7 +30,7 @@
     <preference name='WindowsToastCapable' value='true' />
 
     <preference name="SplashMaintainAspectRatio" value="true" />
-    <preference name="SplashScreenSpinnerColor" value="#FDFEFF" />
+    <preference name="SplashScreenSpinnerColor" value="#FFFFFF" />
     
     <platform name="android">
       <edit-config file="app/src/main/AndroidManifest.xml" mode="merge" target="/manifest/application">
@@ -40,12 +40,12 @@
 
 
     <platform name="android">
-        <icon src="res/android/icon/81d04749831fdb11d25b7842595cbbdf.png" density="ldpi" />
-        <icon src="res/android/icon/68844d15edaab8a64adb31e2b44be873.png" density="mdpi" />
-        <icon src="res/android/icon/d7a90d412f25ffc8b8c8390d17e7c389.png" density="hdpi" />
-        <icon src="res/android/icon/3f6e46987668bd071c6ae7b8a56136f1.png" density="xhdpi" />
-        <icon src="res/android/icon/c5c0c6ecdd7c552479be60fed706d005.png" density="xxhdpi" />
-        <icon src="res/android/icon/2711541aeeff1607cc70b88d0a1460b2.png" density="xxxhdpi" />
+        <icon src="res/android/icon/80cf37804e06fe7f692b51f1e91de554.png" density="ldpi" />
+        <icon src="res/android/icon/7ed66472e0ce92f12f6503221e8c7dbd.png" density="mdpi" />
+        <icon src="res/android/icon/0e5d15b7f9a796f342137dbf916fa088.png" density="hdpi" />
+        <icon src="res/android/icon/ed5f9202c9cbd5471ca142dec08ae58d.png" density="xhdpi" />
+        <icon src="res/android/icon/6fb8812f1645ea6a3808d82a34e00e3e.png" density="xxhdpi" />
+        <icon src="res/android/icon/f32c25365ac84b3cdc1fc6965a99ae61.png" density="xxxhdpi" />
 
         <splash src="res/android/screen/71b441f4c2720c37f43fd58538b4b11b.png" density="port-hdpi"/>
         <splash src="res/android/screen/f9efa043572dbf93224d8713b56c11c5.png" density="port-ldpi"/>
